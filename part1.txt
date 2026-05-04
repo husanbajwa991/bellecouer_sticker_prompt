@@ -1,1 +1,151 @@
+TASK:
+Generate ONE ultra-realistic, high-end vertical lifestyle photograph of a romantic couple.
 
+This image will be used for:
+- sticker conversion (faces must be perfectly usable)
+- high-performance ads
+
+--------------------------------
+
+CRITICAL FACE RULE (HIGHEST PRIORITY – NON-NEGOTIABLE):
+
+Both individuals MUST:
+- face the camera directly (perfect frontal angle)
+- have BOTH eyes fully visible and looking straight into the lens
+- have ZERO obstruction (no hair, no hands, no shadows, no objects)
+- have NO head tilt, NO side angle, NO partial visibility
+- have FULL face inside frame (no cropping of chin, forehead, or sides)
+- be in SHARP focus (no blur on faces)
+
+IF ANY FACE IS NOT PERFECT → REJECT OUTPUT
+
+--------------------------------
+
+SELECTION SYSTEM (MANDATORY):
+
+STEP 1: Select ONE character type:
+- White (European / North American features, fair to light skin tones)
+- Sikh (Punjabi Sikh appearance, turban ONLY if chosen, natural beard if present)
+- Indian (South Asian features, medium to brown skin tones)
+- Chinese (East Asian features, smooth skin tones, natural black hair)
+- Latino (Hispanic/Latino features, warm skin tones)
+
+STEP 2: Select ONE pose:
+- sitting close together facing camera
+- standing side-by-side facing camera
+- soft romantic hug while BOTH still facing camera
+
+--------------------------------
+
+IDENTITY CONSISTENCY RULE (VERY IMPORTANT):
+
+- BOTH individuals MUST belong to the SAME selected character type
+- Maintain realistic facial structure, skin tone, and features
+- DO NOT mix ethnic traits
+- DO NOT generate ambiguous or hybrid faces
+
+--------------------------------
+
+POSE EXECUTION RULE:
+
+- Even during interaction → BOTH faces MUST remain fully visible and frontal
+- Bodies can interact, faces cannot rotate or hide
+
+--------------------------------
+
+EXPRESSION:
+
+- natural soft smiles
+- relaxed, genuine emotion
+- subtle romantic chemistry
+- NOT exaggerated, NOT overly posed
+
+--------------------------------
+
+APPEARANCE:
+
+- attractive but realistic (NOT plastic/model look)
+- natural skin texture (pores, softness, real detail)
+- clean grooming
+- relatable modern couple
+
+--------------------------------
+
+OUTFITS:
+
+- modern casual fashion
+- neutral tones ONLY (beige, cream, black, white, denim)
+- minimal accessories
+- clean, aesthetic, non-distracting
+
+--------------------------------
+
+SCENE:
+
+- cozy modern indoor environment (bedroom / apartment / café)
+- minimal, premium background
+- NO clutter, NO distractions
+
+--------------------------------
+
+LIGHTING (CRITICAL):
+
+- soft cinematic lighting
+- natural window light feel
+- warm tone
+- EVEN lighting across BOTH faces
+- NO shadows covering eyes or facial features
+
+--------------------------------
+
+CAMERA & QUALITY:
+
+- DSLR-level realism
+- 50mm lens look
+- shallow depth of field
+- sharp focus on BOTH faces
+- soft blurred background (bokeh)
+- ultra-high detail, crisp textures
+
+--------------------------------
+
+FRAMING:
+
+- vertical 9:16 composition
+- subjects centered and symmetrical
+- faces positioned in upper-middle frame
+- leave clean space for ad text overlay
+
+--------------------------------
+
+STYLE:
+
+- hyper-realistic
+- cinematic
+- premium Instagram ad photography
+- luxury lifestyle brand aesthetic
+
+--------------------------------
+
+🚫 STRICT NEGATIVE RULES:
+
+- no side faces
+- no looking away
+- no hidden or covered eyes
+- no sunglasses
+- no blur on faces
+- no face cropping
+- no extreme camera angles
+- no obstruction (hair, hands, phone, shadows)
+- no overexposed or underexposed faces
+
+--------------------------------
+
+FINAL OUTPUT REQUIREMENT:
+
+Produce ONLY ONE image.
+
+Faces must be:
+- perfectly symmetrical
+- fully visible
+- cleanly usable for sticker conversion
