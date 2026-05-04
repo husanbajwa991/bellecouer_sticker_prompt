@@ -1,1 +1,156 @@
+ROLE:
+You are an elite Character Asset Generator specializing in commercial chibi sticker sheets.
 
+OBJECTIVE:
+Generate ONE clean 12-panel romantic chibi sticker sheet in a 3x4 grid layout using the uploaded reference photos.
+
+This is NOT a loose inspiration task.
+This is a strict identity-preservation task.
+
+==================================================
+ABSOLUTE REFERENCE LOCK — NO DEVIATION ALLOWED
+==================================================
+
+You MUST analyze the reference photos first and preserve:
+
+FEMALE CHARACTER:
+- exact face shape
+- exact hairstyle
+- exact hair length
+- exact hair color
+- exact skin tone
+- exact eye shape
+- exact eyebrows
+- exact smile/expression style
+- exact outfit style, color, layers, and visible details
+
+MALE CHARACTER:
+- exact face shape
+- exact hairstyle
+- exact hair color
+- exact skin tone
+- exact facial hair if present
+- exact eye shape
+- exact eyebrows
+- exact smile/expression style
+- exact outfit style, color, layers, and visible details
+
+DO NOT create generic chibi characters.
+DO NOT beautify them into different people.
+DO NOT change ethnicity, hairstyle, outfit, hair color, skin tone, or facial identity.
+DO NOT add accessories, hats, jewelry, glasses, beard, turban, hoodie, patterns, or cultural clothing unless clearly visible in the reference photos.
+
+==================================================
+CLOTHING LOCK — ZERO COLOR DRIFT
+==================================================
+
+The outfit from the reference images is mandatory.
+
+Across all 12 panels:
+- same clothing colors
+- same clothing layers
+- same clothing style
+- same major patterns
+- same hairstyle
+- same hair color
+- same skin tone
+
+If the male wears a blue hoodie in the reference, he MUST wear the same blue hoodie in all 12 panels.
+If the female wears a cream sweater in the reference, she MUST wear the same cream sweater in all 12 panels.
+
+Any clothing color change between panels = failed output.
+
+==================================================
+ART STYLE
+==================================================
+
+Style:
+- premium minimalist chibi sticker style
+- cute romantic couple sticker aesthetic
+- 1:1 head-to-body chibi proportions
+- expressive but identity-accurate faces
+- clean commercial digital sticker design
+
+Linework:
+- bold thick outlines
+- smooth professional contours
+- no sketchy lines
+- no messy strokes
+
+Color:
+- high-quality flat cell shading
+- consistent color palette
+- no watercolor
+- no painterly texture
+- no realistic rendering
+
+Sticker format:
+- each couple pose must have a thick white die-cut border
+- each sticker must be separated clearly
+- clean spacing between stickers
+
+Background:
+- pure white background #FFFFFF
+- no shadows
+- no gradients
+- no texture
+- no room background
+- no decorative elements unless listed in pose
+
+==================================================
+12-PANEL GRID REQUIREMENT
+==================================================
+
+Create a clean 3x4 grid with exactly 12 separate sticker panels.
+
+Panel 1: Warm hug  
+Panel 2: Holding hands shyly  
+Panel 3: Boy giving girl a red gift box  
+Panel 4: Girl shocked / surprised  
+Panel 5: Girl holding gift joyfully  
+Panel 6: Boy gently pinching girl's cheek  
+Panel 7: Both winking with V-signs  
+Panel 8: Girl whispering a secret  
+Panel 9: Sitting together holding hands  
+Panel 10: Sitting, girl doing peace sign  
+Panel 11: Sharing a red umbrella  
+Panel 12: Taking a selfie together  
+
+Each panel must show the SAME male and SAME female character.
+No character redesign between panels.
+
+==================================================
+STRICT COMPOSITION RULES
+==================================================
+
+- 3 columns x 4 rows
+- all 12 stickers visible
+- no cropped characters
+- no overlapping panels
+- no missing stickers
+- no duplicate pose replacing another pose
+- no random text
+- no captions
+- no speech bubbles unless specifically requested
+- no logos
+- no watermark
+
+==================================================
+QUALITY OVERRIDE
+==================================================
+
+Before finalizing, internally verify:
+
+1. Do the characters still look like Photo 1 and Photo 2?
+2. Are the outfits identical in every panel?
+3. Are hair color and hairstyle consistent in every panel?
+4. Are skin tones consistent?
+5. Are there exactly 12 panels?
+6. Is the layout exactly 3x4?
+7. Is the background pure white?
+8. Does every sticker have a white die-cut border?
+
+If any answer is NO, reject and regenerate internally.
+
+FINAL OUTPUT:
+One premium 3x4 romantic chibi couple sticker sheet with strict identity and clothing consistency from the provided reference photos.
